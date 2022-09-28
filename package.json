@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "eosjs": "^22.1.0",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "claim",
+  "version": "1.0.0",
+  "description": "wax claim",
+  "main": "claim.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node claim.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claim"
+  ],
+  "author": "kuro",
+  "license": "MIT"
+}
