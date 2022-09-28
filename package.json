@@ -2,8 +2,6 @@
   "dependencies": {
     "dotenv": "^16.0.2",
     "eosjs": "^22.1.0",
-    "moment": "^2.29.4",
-    "node-cron": "^3.0.2",
     "node-fetch": "^2.6.7"
   },
   "name": "claim",

@@ -18,8 +18,8 @@ const api = new Api({
 
 (async () => {
   const tx = await rpc.history_get_transaction(
-    "026d0da3a9b8456dc841e6c245fe7b6823c65367cdf4bd3e8c98ea1ad0eb2181",
-    205856336
+    "ac71f2c6e71027341036c10187be93c3ff4bfdc4de5b047ccb24fb9b966c9083",
+    205863693
   );
   console.log(tx);
 })();
